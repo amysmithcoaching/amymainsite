@@ -1,0 +1,51 @@
+.top {
+    background-image: url(Amy_Smith_background.jpg);
+    background-size: cover;
+    height: 800px
+}
+
+.header {
+    color: black
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.header {
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+.header-row {
+    margin-top: 150px;
+}
+
+.explanation {
+    padding-left: 100px;
+}
+
+.about-text {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 100;
+}
+
+.about-header {
+    font-weight: 300;
+}
+
+.amy-about {
+    width: 60%;
+    height:auto
+}
+
